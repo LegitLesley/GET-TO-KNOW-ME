@@ -1,0 +1,33 @@
+h1 {
+    text-align:center;
+}
+h1{
+    color:blue;
+}
+body{
+    background:url("https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-Download-Aquamarine-Picture-PIC-WPC0011921.jpg");
+}
+p{
+    color:black;
+}
+p{
+    font-size:30px;
+}
+img{
+    
+    margin-top:100px;
+    border-style:double;
+    border-color:white;
+    border-width:100px;
+    zoom:60%;
+    
+}
+body{
+    text-align:center;}
+ h2{
+     color:black;
+     
+}
+li{ 
+    font-size:30px;
+}
